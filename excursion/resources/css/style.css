@@ -27,4 +27,6 @@ p {
 }
 .video {
   object-fit: contain;
+  height: 540px; 
+  width: 960px;
 }
