@@ -25,6 +25,6 @@ p {
 .right {
   text-align: right;
 }
-video {
+.video {
   object-fit: contain;
 }
